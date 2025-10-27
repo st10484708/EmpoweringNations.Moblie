@@ -4,18 +4,18 @@ Empowering the Nation Mobile Application
 
 **Student Numbers**: ST10485487, ST10484708, ST10484166
 
-**Group**: 11
+-**Group**: 11
 
-**Group Name**: Team Visionaries United
+-**Group Name**: Team Visionaries United
 
-**Course**: Higher Certificate in Mobile Application and Website Development
+-**Course**: Higher Certificate in Mobile Application and Website Development
 
-**Subject**: Work Integrated Learning
+-**Subject**: Work Integrated Learning
 
-**Links**
+#**Links**
 
-GitHub Repository:
-
+GitHub Repository:https://github.com/st10484708/EmpoweringNations.Moblie.git
+---
 **Project Overview**
 
 This is a **mobile application** developed as part of a practical project in the Work Integrated Learning subject. The app was built using **React Native** (TypeScript) and styled with **CSS-in-JS** to maintain consistency with the website’s design.
